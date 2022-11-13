@@ -1,0 +1,15 @@
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/bin/Debug/net6.0/Final work
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/bin/Debug/net6.0/Final work.deps.json
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/bin/Debug/net6.0/Final work.runtimeconfig.json
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/bin/Debug/net6.0/Final work.dll
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/bin/Debug/net6.0/Final work.pdb
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.csproj.AssemblyReference.cache
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.GeneratedMSBuildEditorConfig.editorconfig
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.AssemblyInfoInputs.cache
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.AssemblyInfo.cs
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.csproj.CoreCompileInputs.cache
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.dll
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/refint/Final work.dll
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.pdb
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/Final work.genruntimeconfig.cache
+/home/yuriy/Yandex.Disk/GB_Final_Work/GB_Final_Work_1/Final work/obj/Debug/net6.0/ref/Final work.dll
